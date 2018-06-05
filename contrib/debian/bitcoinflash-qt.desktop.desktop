@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitcoinFlash
+Comment=BitcoinFlash P2P Cryptocurrency
+Exec=bitcoinflash-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoinflash128
+MimeType=x-scheme-handler/bitcoinflash;
+Categories=Office;Finance;
+Name[en_US]=bitcoinflash-qt.desktop
